@@ -73,6 +73,8 @@ public class Organizar {
 
                 File destino = new File(imagens, arquivo.getName());
 
+                System.out.println(resultado);
+
                 File[] listaDestino = imagens.listFiles();
                 for (File arquivoAtual : listaDestino) {
                     arquivo.renameTo(destino);
@@ -383,16 +385,9 @@ public class Organizar {
             }
             gravarArq.println("");
         }
-        if (!nExec.isEmpty()){
+        if (!nExec.isEmpty()) {
             gravarArq.println("Executavel:");
-            for (String lExe:nExec) {
-                gravarArq.println(lExe);
-            }
-            gravarArq.println("");
-        }
-        if (!nExec.isEmpty()){
-            gravarArq.println("Musicas:");
-            for (String lExe:nExec) {
+            for (String lExe : nExec) {
                 gravarArq.println(lExe);
             }
             gravarArq.println("");
