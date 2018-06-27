@@ -7,18 +7,12 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Collection;
 
-//import static com.sun.tools.doclint.Entity.or;
-
 public class Organizar {
-
-//	Collection<Arquivos> colec = new ArrayList<>();
 
     Integer Organizando(File raiz) throws IOException {
 
-//        this.raiz = raiz;
-
-//
         String resultado;
+        Integer erro = 0;
         File imagens = new File(raiz, "Imagens");
         File musicas = new File(raiz, "Musicas");
         File pdf = new File(raiz, "PDF");
@@ -33,7 +27,7 @@ public class Organizar {
         File iso = new File(raiz, "ISO");
         File ms = new File(raiz, "Microsoft");
         File texto = new File(raiz, "Texto");
-        Integer erro = 0;
+
         Collection<String> nImagem = new ArrayList();
         Collection<String> nMusica = new ArrayList();
         Collection<String> nPDF = new ArrayList();
@@ -49,20 +43,14 @@ public class Organizar {
         Collection<String> nMS = new ArrayList();
         Collection<String> nTexto = new ArrayList();
 
-
-
-
         // Lista todos os arquivos que está na pasta raiz
-
         File[] listaArquivos = raiz.listFiles();
 
         // Faz a separação dos arquivos
-
         for (File arquivo : listaArquivos) {
             resultado = null;
 
             // Imagens
-
             if (arquivo.getName().endsWith(".jpg") || arquivo.getName().endsWith(".JPG")
                     || arquivo.getName().endsWith(".jpeg") || arquivo.getName().endsWith(".JPEG")
                     || arquivo.getName().endsWith(".gif") || arquivo.getName().endsWith(".GIF")
@@ -70,11 +58,8 @@ public class Organizar {
                     || arquivo.getName().endsWith(".bitmap") || arquivo.getName().endsWith(".BITMAP")
                     || arquivo.getName().endsWith(".tiff") || arquivo.getName().endsWith(".TIFF")) {
                 imagens.mkdir();
-
                 File destino = new File(imagens, arquivo.getName());
-
                 System.out.println(resultado);
-
                 File[] listaDestino = imagens.listFiles();
                 for (File arquivoAtual : listaDestino) {
                     arquivo.renameTo(destino);
@@ -90,13 +75,11 @@ public class Organizar {
             }
 
             // Musicas
-
             else if (arquivo.getName().endsWith(".mp3") || arquivo.getName().endsWith(".MP3")
                     || arquivo.getName().endsWith(".wma") || arquivo.getName().endsWith(".WMA")
                     || arquivo.getName().endsWith(".wav") || arquivo.getName().endsWith(".WAV")) {
                 musicas.mkdir();
                 File destino = new File(musicas, arquivo.getName());
-
                 File[] listaDestino = musicas.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
@@ -112,7 +95,6 @@ public class Organizar {
             }
 
             // Pdf
-
             else if (arquivo.getName().endsWith(".pdf") || arquivo.getName().endsWith(".PDF")) {
                 pdf.mkdir();
                 File destino = new File(pdf, arquivo.getName());
@@ -131,7 +113,6 @@ public class Organizar {
             }
 
             // Executaveis/instaladores
-
             else if (arquivo.getName().endsWith(".exe") || arquivo.getName().endsWith(".EXE")
                     || arquivo.getName().endsWith(".msi") || arquivo.getName().endsWith(".MSI")) {
                 executaveis.mkdir();
@@ -151,7 +132,6 @@ public class Organizar {
             }
 
             // Videos
-
             else if (arquivo.getName().endsWith(".avi") || arquivo.getName().endsWith(".AVI")
                     || arquivo.getName().endsWith(".mpeg") || arquivo.getName().endsWith(".MPEG")
                     || arquivo.getName().endsWith(".mov") || arquivo.getName().endsWith(".MOV")
@@ -176,7 +156,6 @@ public class Organizar {
             }
 
             // Compactados
-
             else if (arquivo.getName().endsWith(".zip") || arquivo.getName().endsWith(".ZIP")
                     || arquivo.getName().endsWith(".rar") || arquivo.getName().endsWith(".RAR")
                     || arquivo.getName().endsWith(".7z") || arquivo.getName().endsWith(".7Z")) {
@@ -197,7 +176,6 @@ public class Organizar {
             }
 
             // Word
-
             else if (arquivo.getName().endsWith(".doc") || arquivo.getName().endsWith(".DOC")
                     || arquivo.getName().endsWith(".docx") || arquivo.getName().endsWith(".DOCX")) {
                 word.mkdir();
@@ -217,7 +195,6 @@ public class Organizar {
             }
 
             // Powerpoint
-
             else if (arquivo.getName().endsWith(".ppt") || arquivo.getName().endsWith(".PPT")
                     || arquivo.getName().endsWith(".pptx") || arquivo.getName().endsWith(".PPTX")) {
                 powerpoint.mkdir();
@@ -237,7 +214,6 @@ public class Organizar {
             }
 
             // Excel
-
             else if (arquivo.getName().endsWith(".xls") || arquivo.getName().endsWith(".XLS")
                     || arquivo.getName().endsWith(".xlsx") || arquivo.getName().endsWith(".XLSX")
                     || arquivo.getName().endsWith(".csv") || arquivo.getName().endsWith(".CSV")
@@ -257,12 +233,10 @@ public class Organizar {
                         continue;
                     }
                 }
-
                 nExcel.add(resultado);
             }
 
             // Outlook
-
             else if (arquivo.getName().endsWith(".msg") || arquivo.getName().endsWith(".MSG")
                     || arquivo.getName().endsWith(".pst") || arquivo.getName().endsWith(".PST")) {
                 outlook.mkdir();
@@ -282,7 +256,6 @@ public class Organizar {
             }
 
             // ISO
-
             else if (arquivo.getName().endsWith(".iso") || arquivo.getName().endsWith(".ISO")) {
                 iso.mkdir();
                 File destino = new File(iso, arquivo.getName());
@@ -301,7 +274,6 @@ public class Organizar {
             }
 
             // Microsoft
-
             else if (arquivo.getName().endsWith(".msu") || arquivo.getName().endsWith(".MSU")
                     || arquivo.getName().endsWith(".diagcab") || arquivo.getName().endsWith(".DIAGCAB")
                     || arquivo.getName().endsWith(".msp") || arquivo.getName().endsWith(".MSP")) {
@@ -322,7 +294,6 @@ public class Organizar {
             }
 
             // Texto
-
             else if (arquivo.getName().endsWith(".txt") || arquivo.getName().endsWith(".TXT")) {
                 texto.mkdir();
                 File destino = new File(texto, arquivo.getName());
@@ -341,7 +312,6 @@ public class Organizar {
             }
 
             // Outros
-
             else if (!arquivo.getName().equals("Compactados") && !arquivo.getName().equals("Excel")
                     && !arquivo.getName().equals("Executaveis") && !arquivo.getName().equals("Imagens")
                     && !arquivo.getName().equals("Musicas") && !arquivo.getName().equals("Outros")
@@ -350,12 +320,12 @@ public class Organizar {
                     && !arquivo.getName().equals("Outlook") && !arquivo.getName().equals("ISO")
                     && !arquivo.getName().equals("Microsoft") && !arquivo.getName().equals("Texto")
                     && !arquivo.getName().equals("Organizador de Arquivos.jar") && !arquivo.getName().equals("Este Computador")
-                    && !arquivo.getName().equals("Rede") && !arquivo.getName().equals("Lixeira") && !arquivo.getName().equals("Computador")){
+                    && !arquivo.getName().equals("Rede") && !arquivo.getName().equals("Lixeira") && !arquivo.getName().equals("Computador")
+                    && !arquivo.getName().equals("Excessao")){
                 outros.mkdir();
                 File destino = new File(outros, arquivo.getName());
                 File[] listaDestino = outros.listFiles();
                 arquivo.renameTo(destino);
-
                 for (File arquivoAtual : listaDestino) {
                     if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + outros.getPath() + " pois já havia um arquivo com o mesmo nome");
@@ -463,8 +433,6 @@ public class Organizar {
             gravarArq.println("");
         }
         arq.close();
-
-//		return (ArrayList) colection
         return erro;
     }
     
