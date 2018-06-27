@@ -76,7 +76,7 @@ public class Organizar {
                 File[] listaDestino = imagens.listFiles();
                 for (File arquivoAtual : listaDestino) {
                     arquivo.renameTo(destino);
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + imagens.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -98,7 +98,7 @@ public class Organizar {
                 File[] listaDestino = musicas.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + musicas.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -117,7 +117,7 @@ public class Organizar {
                 File[] listaDestino = pdf.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + pdf.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -137,7 +137,7 @@ public class Organizar {
                 File[] listaDestino = executaveis.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + executaveis.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -162,7 +162,7 @@ public class Organizar {
                 File[] listaDestino = videos.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + videos.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -179,12 +179,11 @@ public class Organizar {
                     || arquivo.getName().endsWith(".rar") || arquivo.getName().endsWith(".RAR")
                     || arquivo.getName().endsWith(".7z") || arquivo.getName().endsWith(".7Z")) {
                 compact.mkdir();
-                System.out.println("Arquivo " + arquivo + " transferido");
                 File destino = new File(compact, arquivo.getName());
                 File[] listaDestino = compact.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + compact.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -204,7 +203,7 @@ public class Organizar {
                 File[] listaDestino = word.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + word.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -224,7 +223,7 @@ public class Organizar {
                 File[] listaDestino = powerpoint.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + powerpoint.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -247,14 +246,16 @@ public class Organizar {
                 File[] listaDestino = excel.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + excel.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
                     }else{
                         resultado = (arquivo.getName() + " transferido para " + excel.getPath());
+                        continue;
                     }
                 }
+
                 nExcel.add(resultado);
             }
 
@@ -267,7 +268,7 @@ public class Organizar {
                 File[] listaDestino = outlook.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + outlook.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -286,7 +287,7 @@ public class Organizar {
                 File[] listaDestino = iso.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + iso.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -307,7 +308,7 @@ public class Organizar {
                 File[] listaDestino = ms.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + ms.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -326,7 +327,7 @@ public class Organizar {
                 File[] listaDestino = texto.listFiles();
                 arquivo.renameTo(destino);
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + texto.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
@@ -354,7 +355,7 @@ public class Organizar {
                 arquivo.renameTo(destino);
 
                 for (File arquivoAtual : listaDestino) {
-                    if (arquivoAtual.getName() == arquivo.getName()){
+                    if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + outros.getPath() + " pois já havia um arquivo com o mesmo nome");
                         erro = 1;
                         break;
