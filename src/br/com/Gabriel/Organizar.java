@@ -326,6 +326,17 @@ public class Organizar {
                 File destino = new File(outros, arquivo.getName());
                 File[] listaDestino = outros.listFiles();
                 arquivo.renameTo(destino);
+                String testeSeparacao = arquivo.getName();
+                int pos = testeSeparacao.lastIndexOf(".");
+                if(pos > 0){
+                    String testeSeparacao1 = testeSeparacao.substring(0,pos);
+                    String testeSeparacao2 = testeSeparacao.substring(pos);
+                    System.out.println(testeSeparacao1);
+                    System.out.println(testeSeparacao2);
+
+                }
+//                String[] stringDividida = arquivo.getName().split(".");
+
                 for (File arquivoAtual : listaDestino) {
                     if (arquivoAtual.getName().equals(arquivo.getName())){
                         resultado = (arquivo.getName() + " não pôde ser transferido para " + outros.getPath() + " pois já havia um arquivo com o mesmo nome");

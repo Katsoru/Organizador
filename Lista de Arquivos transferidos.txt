@@ -1,58 +1,12 @@
 Descritivo
 PDF:
 inspiron-14z-5423_Reference Guide_pt-br.pdf não pôde ser transferido para C:\Users\newtasks01\Desktop\PDF pois já havia um arquivo com o mesmo nome
+T596H703231.pdf transferido para C:\Users\newtasks01\Desktop\PDF
+T596H803826.pdf transferido para C:\Users\newtasks01\Desktop\PDF
 
 Executavel:
-auto-click.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
 BSODInspector-1.0.5.exe não pôde ser transferido para C:\Users\newtasks01\Desktop\Executaveis pois já havia um arquivo com o mesmo nome
-ccsetup540pro.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-ChromeCacheView.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-DiagnosticoBB.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-FirefoxPortable_33.1.1_PortugueseBR.paf.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-gg-client.windows (1).exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-HWiNFO64.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-ie6setupOe.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-inSSIDer4installer.msi transferido para C:\Users\newtasks01\Desktop\Executaveis
-Install JDownloader.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-LTFViewr5u.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-navegadorpje.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-nhm_setup_2.0.1.2.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-oex221_last_version.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-PstPassword.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-setup.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-SQLServer2016-SSEI-Expr (1).exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-StopS.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
 TeamViewer_Setup.exe não pôde ser transferido para C:\Users\newtasks01\Desktop\Executaveis pois já havia um arquivo com o mesmo nome
-tni-setup.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-tniwinagent.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-WDDriveUtilitiesSetup.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-wifiscanner_setup.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-
-Musicas:
-auto-click.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-BSODInspector-1.0.5.exe não pôde ser transferido para C:\Users\newtasks01\Desktop\Executaveis pois já havia um arquivo com o mesmo nome
-ccsetup540pro.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-ChromeCacheView.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-DiagnosticoBB.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-FirefoxPortable_33.1.1_PortugueseBR.paf.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-gg-client.windows (1).exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-HWiNFO64.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-ie6setupOe.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-inSSIDer4installer.msi transferido para C:\Users\newtasks01\Desktop\Executaveis
-Install JDownloader.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-LTFViewr5u.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-navegadorpje.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-nhm_setup_2.0.1.2.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-oex221_last_version.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-PstPassword.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-setup.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-SQLServer2016-SSEI-Expr (1).exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-StopS.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-TeamViewer_Setup.exe não pôde ser transferido para C:\Users\newtasks01\Desktop\Executaveis pois já havia um arquivo com o mesmo nome
-tni-setup.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-tniwinagent.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-WDDriveUtilitiesSetup.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
-wifiscanner_setup.exe transferido para C:\Users\newtasks01\Desktop\Executaveis
 
 Compactados:
 DESK_515_23_06_2017_09_31_43.zip não pôde ser transferido para C:\Users\newtasks01\Desktop\Compactados pois já havia um arquivo com o mesmo nome
@@ -63,174 +17,31 @@ TeamViewer_Setup.rar não pôde ser transferido para C:\Users\newtasks01\Desktop
 workspace.rar não pôde ser transferido para C:\Users\newtasks01\Desktop\Compactados pois já havia um arquivo com o mesmo nome
 
 Word:
-00 2017 - 1442330708-ACORDO_COOPERACAO-ESTAGIO_-MM.doc transferido para C:\Users\newtasks01\Desktop\Word
-A CONTRATADA permanecerá proprietária dos equipamentos cedidos em comodato às CONTRATANTES e aos EMPREENIDMENTOS.docx transferido para C:\Users\newtasks01\Desktop\Word
-CodFax_07-003_Parametros_de_Impressao_InkJet_Laser_Microsoft_Word2007.doc transferido para C:\Users\newtasks01\Desktop\Word
-Comunicado aos Colaboradores 2018.doc transferido para C:\Users\newtasks01\Desktop\Word
-CONTRIBUIÇÃO SINDICAL (1).docx transferido para C:\Users\newtasks01\Desktop\Word
-CONTRIBUIÇÃO SINDICAL.docx transferido para C:\Users\newtasks01\Desktop\Word
-CV - Gabriel.doc transferido para C:\Users\newtasks01\Desktop\Word
-Erro de Classe não registrada - Google Chrome.docx transferido para C:\Users\newtasks01\Desktop\Word
-Escala de Trabalho em Pontes de Feriados 2018.docx transferido para C:\Users\newtasks01\Desktop\Word
-HGI POA - Ata da Análise de Projeto Arquitetônico revisado Atlantica .docx transferido para C:\Users\newtasks01\Desktop\Word
-Informações Impressora-Toner.docx transferido para C:\Users\newtasks01\Desktop\Word
-Lista de Solicitantes.docx transferido para C:\Users\newtasks01\Desktop\Word
-Monografia TCC - 2017.doc transferido para C:\Users\newtasks01\Desktop\Word
 Newtasks-Papelaria.doc não pôde ser transferido para C:\Users\newtasks01\Desktop\Word pois já havia um arquivo com o mesmo nome
-Projeto_TCC (2017).docx transferido para C:\Users\newtasks01\Desktop\Word
-Star Emperor e Soul Reaper.docx transferido para C:\Users\newtasks01\Desktop\Word
-Storage 3 - AHI.doc transferido para C:\Users\newtasks01\Desktop\Word
-Termo de Responsabilidade Notebook.docx transferido para C:\Users\newtasks01\Desktop\Word
 
 Excel:
-26-03-18 - Controle de Maquinas.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-26-03-18 - Live Drive - Atlantica.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-26-03-18 - Relatorio Semanal de Rede 2018.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
 Atlantica.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Contatos.csv transferido para C:\Users\newtasks01\Desktop\Excel
-Contatos1.csv transferido para C:\Users\newtasks01\Desktop\Excel
-Contatos1596161526.csv transferido para C:\Users\newtasks01\Desktop\Excel
-Contatos2.csv transferido para C:\Users\newtasks01\Desktop\Excel
-Contatos21532.csv transferido para C:\Users\newtasks01\Desktop\Excel
-Contatos3.csv transferido para C:\Users\newtasks01\Desktop\Excel
-Contatosagoravai.csv transferido para C:\Users\newtasks01\Desktop\Excel
-Contatoss.csv transferido para C:\Users\newtasks01\Desktop\Excel
-CONTROLE OPEX 2018 (Recuperado).xlsm transferido para C:\Users\newtasks01\Desktop\Excel
 CPC e Matriz de Franquia_Revisado_06_07_2017.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
 Cópia de Controle de Maquinas.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Cópia de HGI POA (002).xls transferido para C:\Users\newtasks01\Desktop\Excel
-Cópia de POSICAO SUPORTE.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Cópia de Relatorio de Atendimento - 2004.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Cópia de Relatorio de Atendimento - Terceira Semana - Vitor Paiva.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-DASHBOARD HD_RAZÕES.xlsm transferido para C:\Users\newtasks01\Desktop\Excel
-DASHBOARD HD_RAZÕES.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-HGI POA.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Horas Após Expediente - 19-03-18.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
+Cópia de Relação de CPU Notebooks -  HD data 100518 - Atlantica para HD (003).xlsx transferido para C:\Users\newtasks01\Desktop\Excel
 Inventario CPD.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Live Drive - Atlantica - Local.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
 Pasta1.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Planejamento backup servidor.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Ramais Atlantica.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Ramais CMNet.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-RAMAIS_ATLANTICA_20180425.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Relatorio de Atendimento - 0405.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Relatorio de Atendimento - 2004.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Relatorio de Atendimento - 2704.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Relatorio de Atendimento 15.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Relatorio de Atendimento 1509.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Relatorio de Atendimento dia 27.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Relatorio de Atendimento Ex.xlsm transferido para C:\Users\newtasks01\Desktop\Excel
-Relatorio de Atendimento x.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
 Relatorio de Atendimento.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
 Relatorio de AtenFDFGdimento.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Softwares Instalados.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
+Relação de CPU, Notebooks e Ipads -  HD data 2906018 - Atlantica e HD.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
 Tabela Itens Ragnarok sem script.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
 Tabela Itens Ragnarok.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Tel Frequentes.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Telefones Atlantica Jan e Fev 2018 (version 1).xlsb transferido para C:\Users\newtasks01\Desktop\Excel
-Telefones Atlantica Jan e Fev 2018.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Telefones Atlantica Julho 2017.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Telefones Atlantica Maio 2018.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Telefones Atlantica Março 2018.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Telefones Atlantica Nov e Dez 2017.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Telefones Atlantica Outubro 2017.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Teste Relatorio de Atendimento.xlsm transferido para C:\Users\newtasks01\Desktop\Excel
-Teste.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Teste2.xls transferido para C:\Users\newtasks01\Desktop\Excel
 
 Outros:
-011916-18703-01.dmp transferido para C:\Users\newtasks01\Desktop\Outros
-013018-18531-01.dmp transferido para C:\Users\newtasks01\Desktop\Outros
-020618-21468-01.dmp transferido para C:\Users\newtasks01\Desktop\Outros
-030818-27140-01.dmp transferido para C:\Users\newtasks01\Desktop\Outros
-113016-17843-01.dmp transferido para C:\Users\newtasks01\Desktop\Outros
-121217-47593-01.dmp transferido para C:\Users\newtasks01\Desktop\Outros
-121517-21312-01.dmp transferido para C:\Users\newtasks01\Desktop\Outros
-122717-30875-01.dmp transferido para C:\Users\newtasks01\Desktop\Outros
-Aida64 transferido para C:\Users\newtasks01\Desktop\Outros
-Analise.bat transferido para C:\Users\newtasks01\Desktop\Outros
-Arquivos do Outlook - Atalho.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-AssinadorJT.jnlp transferido para C:\Users\newtasks01\Desktop\Outros
-Backup_Eric Marketing transferido para C:\Users\newtasks01\Desktop\Outros
-BD TCC Oldair transferido para C:\Users\newtasks01\Desktop\Outros
-Bree Serif Bold Italic.otf transferido para C:\Users\newtasks01\Desktop\Outros
-Carnê-Leão 2017.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-ChromeCacheView.chm transferido para C:\Users\newtasks01\Desktop\Outros
-Codota.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Controle de Maquinas - Código.jar transferido para C:\Users\newtasks01\Desktop\Outros
-Controle de Maquinas Alpha.jar transferido para C:\Users\newtasks01\Desktop\Outros
-Cópia de Requisição motoboy.xlsx - Atalho.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-dados.properties transferido para C:\Users\newtasks01\Desktop\Outros
-Data Inn.lnk transferido para C:\Users\newtasks01\Desktop\Outros
+chromeos transferido para C:\Users\newtasks01\Desktop\Outros
+common transferido para C:\Users\newtasks01\Desktop\Outros
 desktop.ini não pôde ser transferido para C:\Users\newtasks01\Desktop\Outros pois já havia um arquivo com o mesmo nome
-Diagnóstico BB.log transferido para C:\Users\newtasks01\Desktop\Outros
-Driver Booster 4.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-DuckCapture.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-FileViewPro.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-FileZilla Client.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Git Bash.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Helvetica Neue CE 75 Bold.ttf transferido para C:\Users\newtasks01\Desktop\Outros
-HWiNFO64.INI transferido para C:\Users\newtasks01\Desktop\Outros
-ImgBurn.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-IntelliJ IDEA Community Edition 2017.2 x64.lnk transferido para C:\Users\newtasks01\Desktop\Outros
 IntelliJ_ProjetosIniciais transferido para C:\Users\newtasks01\Desktop\Outros
-IrfanView 64 Thumbnails.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-IrfanView 64.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Itaú.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-iTunes.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-JDownloader 2.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-kali-linux-2017.3-amd64.txt.sha256sum transferido para C:\Users\newtasks01\Desktop\Outros
-Lenovo transferido para C:\Users\newtasks01\Desktop\Outros
 Lista.ini transferido para C:\Users\newtasks01\Desktop\Outros
-Live Drive - Atlantica.xlsx - Atalho.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-LTFViewr5u.ini transferido para C:\Users\newtasks01\Desktop\Outros
-manifest.json transferido para C:\Users\newtasks01\Desktop\Outros
-MEGAcmd.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-MiPony.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-MP C2004 transferido para C:\Users\newtasks01\Desktop\Outros
-MSO_Hyperlinks.cmd transferido para C:\Users\newtasks01\Desktop\Outros
-NiceHash Miner 2.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-NOTE-445_844BF5DC8D15.inv transferido para C:\Users\newtasks01\Desktop\Outros
-Oracle VM VirtualBox.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Organizador de Pastas.jar transferido para C:\Users\newtasks01\Desktop\Outros
-Organizador.jar transferido para C:\Users\newtasks01\Desktop\Outros
-Preferences transferido para C:\Users\newtasks01\Desktop\Outros
-Programa TCC Oldair transferido para C:\Users\newtasks01\Desktop\Outros
-Programas de Padronização img 1 transferido para C:\Users\newtasks01\Desktop\Outros
-Projeto Teste transferido para C:\Users\newtasks01\Desktop\Outros
-Projetos - Java transferido para C:\Users\newtasks01\Desktop\Outros
-Projetos Java transferido para C:\Users\newtasks01\Desktop\Outros
-PstPassword.cfg transferido para C:\Users\newtasks01\Desktop\Outros
-PstPassword.chm transferido para C:\Users\newtasks01\Desktop\Outros
-RadissonRedSignatureTool.Setup_V1.0.2 transferido para C:\Users\newtasks01\Desktop\Outros
-RadissonRed_logostrip_htm.xslt transferido para C:\Users\newtasks01\Desktop\Outros
-Recovery Toolbox for Outlook.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-regras-outlook-priscila.rwz transferido para C:\Users\newtasks01\Desktop\Outros
-Relatorio Semanal de Rede 2018.xlsx - Atalho.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Relatório transferido para C:\Users\newtasks01\Desktop\Outros
-Relatório mensal transferido para C:\Users\newtasks01\Desktop\Outros
-Report.htm transferido para C:\Users\newtasks01\Desktop\Outros
-Revo Uninstaller.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-ScriptSEFIP.bat transferido para C:\Users\newtasks01\Desktop\Outros
-Shodo - Assinador Digital.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Sped Contabil.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-SurfaceRT_BMR_10.8.17.0.zip.tx8b5pz.partial transferido para C:\Users\newtasks01\Desktop\Outros
-Tasks transferido para C:\Users\newtasks01\Desktop\Outros
-Templates transferido para C:\Users\newtasks01\Desktop\Outros
-Termos - Atalho.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Termos2 transferido para C:\Users\newtasks01\Desktop\Outros
-Teste Destino transferido para C:\Users\newtasks01\Desktop\Outros
-teste monero.html transferido para C:\Users\newtasks01\Desktop\Outros
-Teste Org transferido para C:\Users\newtasks01\Desktop\Outros
-Teste Origem transferido para C:\Users\newtasks01\Desktop\Outros
 Teste.reg transferido para C:\Users\newtasks01\Desktop\Outros
-Total Network Inventory 3.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Tutoriais transferido para C:\Users\newtasks01\Desktop\Outros
-Tweaking.com - Windows Repair.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Ultimate Windows Tweaker 4.3 transferido para C:\Users\newtasks01\Desktop\Outros
-UUKeys Windows Password Mate Advanced.lnk transferido para C:\Users\newtasks01\Desktop\Outros
-Windows10Upgrade transferido para C:\Users\newtasks01\Desktop\Outros
-workspace transferido para C:\Users\newtasks01\Desktop\Outros
+TesteBat.bat transferido para C:\Users\newtasks01\Desktop\Outros
+VERSION transferido para C:\Users\newtasks01\Desktop\Outros
+windows transferido para C:\Users\newtasks01\Desktop\Outros
 
 Imagem:
 Sem título.png não pôde ser transferido para C:\Users\newtasks01\Desktop\Imagens pois já havia um arquivo com o mesmo nome
