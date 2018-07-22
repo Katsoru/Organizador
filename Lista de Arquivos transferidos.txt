@@ -1,48 +1,23 @@
 Descritivo
-PDF:
-inspiron-14z-5423_Reference Guide_pt-br.pdf não pôde ser transferido para C:\Users\newtasks01\Desktop\PDF pois já havia um arquivo com o mesmo nome
-T596H703231.pdf transferido para C:\Users\newtasks01\Desktop\PDF
-T596H803826.pdf transferido para C:\Users\newtasks01\Desktop\PDF
-
-Executavel:
-BSODInspector-1.0.5.exe não pôde ser transferido para C:\Users\newtasks01\Desktop\Executaveis pois já havia um arquivo com o mesmo nome
-TeamViewer_Setup.exe não pôde ser transferido para C:\Users\newtasks01\Desktop\Executaveis pois já havia um arquivo com o mesmo nome
-
-Compactados:
-DESK_515_23_06_2017_09_31_43.zip não pôde ser transferido para C:\Users\newtasks01\Desktop\Compactados pois já havia um arquivo com o mesmo nome
-HGI POA - Ata da Análise de Projeto Arquitetônico revisado Atlantica fhdugdgfhgfhfghf.rar não pôde ser transferido para C:\Users\newtasks01\Desktop\Compactados pois já havia um arquivo com o mesmo nome
-IntelliJ_ProjetosIniciais.rar não pôde ser transferido para C:\Users\newtasks01\Desktop\Compactados pois já havia um arquivo com o mesmo nome
-Java.zip não pôde ser transferido para C:\Users\newtasks01\Desktop\Compactados pois já havia um arquivo com o mesmo nome
-TeamViewer_Setup.rar não pôde ser transferido para C:\Users\newtasks01\Desktop\Compactados pois já havia um arquivo com o mesmo nome
-workspace.rar não pôde ser transferido para C:\Users\newtasks01\Desktop\Compactados pois já havia um arquivo com o mesmo nome
-
-Word:
-Newtasks-Papelaria.doc não pôde ser transferido para C:\Users\newtasks01\Desktop\Word pois já havia um arquivo com o mesmo nome
-
-Excel:
-Atlantica.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-CPC e Matriz de Franquia_Revisado_06_07_2017.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Cópia de Controle de Maquinas.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Cópia de Relação de CPU Notebooks -  HD data 100518 - Atlantica para HD (003).xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Inventario CPD.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Pasta1.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Relatorio de Atendimento.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Relatorio de AtenFDFGdimento.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Relação de CPU, Notebooks e Ipads -  HD data 2906018 - Atlantica e HD.xlsx transferido para C:\Users\newtasks01\Desktop\Excel
-Tabela Itens Ragnarok sem script.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-Tabela Itens Ragnarok.xlsx não pôde ser transferido para C:\Users\newtasks01\Desktop\Excel pois já havia um arquivo com o mesmo nome
-
 Outros:
-chromeos transferido para C:\Users\newtasks01\Desktop\Outros
-common transferido para C:\Users\newtasks01\Desktop\Outros
-desktop.ini não pôde ser transferido para C:\Users\newtasks01\Desktop\Outros pois já havia um arquivo com o mesmo nome
-IntelliJ_ProjetosIniciais transferido para C:\Users\newtasks01\Desktop\Outros
-Lista.ini transferido para C:\Users\newtasks01\Desktop\Outros
-Teste.reg transferido para C:\Users\newtasks01\Desktop\Outros
-TesteBat.bat transferido para C:\Users\newtasks01\Desktop\Outros
-VERSION transferido para C:\Users\newtasks01\Desktop\Outros
-windows transferido para C:\Users\newtasks01\Desktop\Outros
+Nova pasta (2) transferido para C:\Users\gaah9\Desktop\Outros
 
 Imagem:
-Sem título.png não pôde ser transferido para C:\Users\newtasks01\Desktop\Imagens pois já havia um arquivo com o mesmo nome
+null
+22277814_107633803282892_9007637384354856960_n.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+23844678_1158623274269416_2521602362714095877_n.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+6092.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+838670.png transferido para C:\Users\gaah9\Desktop\Imagens
+big_1508776532_image.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+Capture.PNG transferido para C:\Users\gaah9\Desktop\Imagens
+download.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+e34c18459a10544007ab73c020fa41be.png transferido para C:\Users\gaah9\Desktop\Imagens
+fave.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+Frente - Certificado.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+i'm blue.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+maxresdefault.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+nana.jpg transferido para C:\Users\gaah9\Desktop\Imagens
+Nanachi_Manga.png transferido para C:\Users\gaah9\Desktop\Imagens
+tomanocu.png transferido para C:\Users\gaah9\Desktop\Imagens
+tumblr_p2wa4lFzFl1smqdazo1_500.png transferido para C:\Users\gaah9\Desktop\Imagens
 
