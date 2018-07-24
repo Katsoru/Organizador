@@ -339,7 +339,10 @@ public class Organizar {
         }
         FileWriter arq = new FileWriter("Lista de Arquivos transferidos.txt");
         PrintWriter gravarArq = new PrintWriter(arq);
+        gravarArq.println("Em caso de bugs, sugestões e idéias por favor encaminhar um e-mail para gabalvessilva@gmail.com!");
+        gravarArq.println("");
         gravarArq.println("Descritivo");
+        gravarArq.println("");
         if (!nMusica.isEmpty()){ /*Verifica se a lista nMusica é vazia*/
             gravarArq.println("Musicas:");
             for (String lMusica:nMusica) {
@@ -431,6 +434,7 @@ public class Organizar {
             }
             gravarArq.println("");
         }
+
         arq.close();
         return erro;
     }
